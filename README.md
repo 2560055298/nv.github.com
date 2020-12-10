@@ -1,7 +1,7 @@
 # 女书网站：简要介绍 
 
 ~~~
-致力于开源，让学习资源共享。									---老洋
+致力于开源，让学习资源共享。										      ---老洋
 ~~~
 
 
@@ -54,7 +54,7 @@
 
 ## 4、下载内容：包含文件
 
-![image-20201210155606741](https://gitee.com/sheep-are-flying-in-the-sky/my-picture/raw/master/picture4/image-20201210155606741.png)
+![image-20201210212021809](https://gitee.com/sheep-are-flying-in-the-sky/my-picture/raw/master/picture4/image-20201210212021809.png)
 
 ## 5、使用方式
 
@@ -80,6 +80,6 @@
 ## 7、问题：联系方式
 
 ~~~java
-若有问题:请联系qq2560055298 								 ---老洋
+若有问题:请联系qq2560055298 											---老洋
 ~~~
 
